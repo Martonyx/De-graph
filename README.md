@@ -1,4 +1,4 @@
-# Created this dApp from the LearnWeb3DAO Sophomore Track
+# Created this lottery-Game from the LearnWeb3DAO Sophomore Track
 
 ## The function of the dapp is to whitelist addresses upto the maximum amount given at the point of the contract deployment
 
